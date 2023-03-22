@@ -1,0 +1,16 @@
+syntax="proto3";
+
+
+
+service Hello{
+  rpc Hello(HelloRequest) returns (HelloReply); // Hello 接口
+}
+
+message HelloRequest{
+  string name = 1; // 1 是编号不是值
+}
+
+
+message HelloReply{
+  string reply = 1;
+}

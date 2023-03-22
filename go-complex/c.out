@@ -1,0 +1,18 @@
+mode: set
+github.com/menah3m/go-tutorial/go-complex/main.go:12.13,64.2 2 0
+github.com/menah3m/go-tutorial/go-complex/main.go:66.22,68.2 1 0
+github.com/menah3m/go-tutorial/go-complex/main.go:70.26,72.2 1 0
+github.com/menah3m/go-tutorial/go-complex/main.go:74.53,78.30 4 0
+github.com/menah3m/go-tutorial/go-complex/main.go:88.2,88.18 1 0
+github.com/menah3m/go-tutorial/go-complex/main.go:78.30,80.27 2 0
+github.com/menah3m/go-tutorial/go-complex/main.go:83.3,83.28 1 0
+github.com/menah3m/go-tutorial/go-complex/main.go:86.3,86.22 1 0
+github.com/menah3m/go-tutorial/go-complex/main.go:80.27,82.4 1 0
+github.com/menah3m/go-tutorial/go-complex/main.go:83.28,85.4 1 0
+github.com/menah3m/go-tutorial/go-complex/main.go:92.59,96.30 4 1
+github.com/menah3m/go-tutorial/go-complex/main.go:106.2,106.18 1 1
+github.com/menah3m/go-tutorial/go-complex/main.go:96.30,98.27 2 1
+github.com/menah3m/go-tutorial/go-complex/main.go:101.3,101.28 1 1
+github.com/menah3m/go-tutorial/go-complex/main.go:104.3,104.22 1 1
+github.com/menah3m/go-tutorial/go-complex/main.go:98.27,100.4 1 1
+github.com/menah3m/go-tutorial/go-complex/main.go:101.28,103.4 1 1

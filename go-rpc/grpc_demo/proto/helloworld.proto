@@ -1,0 +1,30 @@
+syntax="proto3";
+import "base.proto";
+
+import "google/protobuf/timestamp.proto";
+option go_package=".;proto";
+
+service Greeter{
+  rpc SayHello(HelloRequest) returns (HelloReply); // Hello 接口
+  rpc Ping(Empty) returns (Pong);
+}
+
+message HelloRequest{
+  string name = 1; // 1 是编号不是值
+  Gender gender = 2;
+  map<string,string> mp = 3;
+  google.protobuf.Timestamp ts = 4;
+}
+
+
+message HelloReply{
+  string message = 1;
+  Gender gender = 2;
+}
+
+
+enum Gender{
+  MALE = 0;
+  FEMALE = 1;
+}
+

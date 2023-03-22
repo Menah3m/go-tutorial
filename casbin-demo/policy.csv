@@ -1,0 +1,8 @@
+p,admin,mysql,write
+p,admin,mysql,read
+p,developer,mysql,read
+p,operator,mysql,read
+p,operator,mysql,write
+g,kang,admin
+g,min,developer
+g,jie,operator
